@@ -1,0 +1,5 @@
+name: RSF
+version: '${project.version}'
+main: com.rsffa.RSF
+prefix: RSF
+authors: [peustalora]
