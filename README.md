@@ -1,7 +1,6 @@
-# RSF
-FFA plugin. 
-<br> <br> 
-TODO:<br>
+FFA plugin for minecraft 1.8*. 
+<br> <br>
+## TODO:<br>
 Spawn (Static location)<br>
 deathY (Static integer)<br>
 maxX//maxZ boundary (Static numbers)<br>
