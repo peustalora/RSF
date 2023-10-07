@@ -1,4 +1,4 @@
-# FFA plugin for minecraft 1.8*. 
+# FFA plugin for minecraft 1.8.*
 <br> <br>
 ### Main V1
 ⭕ Spawn (Location)<br>
@@ -27,9 +27,13 @@
 ❌ Sound effects<br>
 ❌ Dynamic border & Dynamic border option<br>
 ❌ Integration with PAPI<br>
+❌ Support from 1.8 to newer versions<br>
 
 ### CMDs
 ⭕ Manual location set (/FFAloc)<br>
 ❌ Set player's items (/RSF items)<br>
 ❌ Sort inv (/RSF sortinv, alias: /sortinv)<br>
 ❌ Auto-Set (/RSF Autoset)<br>
+
+### Progress
+Around 3-4 ⭕ per month
