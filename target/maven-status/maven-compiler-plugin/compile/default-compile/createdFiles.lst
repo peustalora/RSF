@@ -1,0 +1,14 @@
+com\rsffa\cmds\CheckWhile.class
+com\rsffa\function\Cuboid.class
+com\rsffa\confManager.class
+com\rsffa\listners\DamageEvent.class
+com\rsffa\cmds\SetLocCmd.class
+com\rsffa\listners\OnBreakEvent.class
+com\rsffa\RSF.class
+com\rsffa\listners\OnPlaceEvent.class
+com\rsffa\listners\DamageEntityEvent.class
+com\rsffa\function\TeleportReset.class
+com\rsffa\listners\BasicListners.class
+com\rsffa\listners\OnPlaceEvent$BlockManager.class
+com\rsffa\cmds\CheckWhile$1.class
+com\rsffa\listners\OnJoinEnterGame.class
