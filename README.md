@@ -34,6 +34,3 @@
 ❌ Set player's items (/RSF items)<br>
 ❌ Sort inv (/RSF sortinv, alias: /sortinv)<br>
 ❌ Auto-Set (/RSF Autoset)<br>
-
-### Progress
-Around 3-4 ⭕ per month
