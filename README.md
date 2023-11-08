@@ -7,7 +7,6 @@
 ⭕ While loop [is in cube?]<br>
 ⭕ On join with items<br>
 ⭕ Ignore players that aren't in gamemode survival (if check)<br>
-### Main V1.5
 ⭕ Disable damage config<br>
 ⭕ Better Death<br>
 ⭕ Teleport to spawn on death<br>
