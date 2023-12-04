@@ -11,7 +11,7 @@
 ⭕ Better Death<br>
 ⭕ Teleport to spawn on death<br>
 ⭕ Basic Block Reset (No yaml save)<br>
-❌ Basic Block Break<br>
+⭕ Basic Block Break<br>
 ### Main V2
 ❌ Better Block Break<br>
 ❌ YAML Manager + Save player's blocks to reset<br>
