@@ -13,19 +13,21 @@
 ⭕ Basic Block Reset (No yaml save)<br>
 ⭕ Basic Block Break<br>
 ### Main V2
-❌ Better Block Break<br>
+❌ Inventory sorting<br>
 ❌ YAML Manager + Save player's blocks to reset<br>
 ❌ Change items given to the player<br>
-❌ Inventory sorting<br>
 ❌ Map Change<br>
 ### Main V3
+❌ Persisting inventory sorting<br>
 ❌ Point system<br>
 ❌ Recieve points from killing players<br>
 ❌ Killstreak<br>
+❌ Stats
 ❌ Extra visual effects<br>
 ❌ Sound effects<br>
 ❌ Dynamic border & Dynamic border option<br>
 ❌ Integration with PAPI<br>
+### Maybe?
 ❌ Support from 1.8 to newer versions<br>
 
 ### CMDs
